@@ -1,0 +1,47 @@
+# Ignore the entire Dataset folder
+Dataset/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore trained model files
+*.h5
+*.keras
+*.model
+trained_plant_disease_model.*
+trained_model.*
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Ignore test output folders
+test/
+tests/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore any other files or folders you don't want to track
+# Add any additional patterns below
