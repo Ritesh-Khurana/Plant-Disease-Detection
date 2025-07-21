@@ -1,4 +1,4 @@
-﻿# Plant-Disease-Detection
+﻿# 🌿Plant-Disease-Detection
 
 Welcome to the **Plant Disease Detection** project! This AI-powered system helps farmers identify plant diseases early, enabling them to take timely action to prevent crop loss and improve agricultural productivity. 🌱
 
