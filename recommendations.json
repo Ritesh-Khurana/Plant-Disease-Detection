@@ -1,0 +1,30 @@
+{
+  "Apple___Apple_scab": "🍎 Remove infected leaves, apply fungicide, and ensure proper spacing for airflow.",
+  "Apple___Black_rot": "🍎 Prune affected branches and use protective sprays.",
+  "Apple___Cedar_apple_rust": "🍎 Use resistant varieties and apply fungicide during early growth.",
+  "Apple___healthy": "🍎 Healthy! Maintain soil nutrients and monitor weekly.",
+
+  "Corn_(maize)___Common_rust_": "🌽 Rotate crops, use resistant hybrids, and apply fungicide if severe.",
+  "Corn_(maize)___Northern_Leaf_Blight": "🌽 Plant resistant varieties and avoid overhead irrigation.",
+  "Corn_(maize)___healthy": "🌽 Healthy! Ensure balanced fertilization and proper spacing.",
+
+  "Tomato___Early_blight": "🍅 Use resistant varieties, apply fungicide, and rotate crops.",
+  "Tomato___Late_blight": "🍅 Avoid overhead watering, use resistant seeds, and apply fungicide.",
+  "Tomato___Leaf_Mold": "🍅 Improve ventilation, reduce humidity, and remove infected leaves.",
+  "Tomato___healthy": "🍅 Healthy! Maintain irrigation schedule and monitor for pests.",
+
+  "Potato___Early_blight": "🥔 Remove infected leaves, rotate crops, and apply fungicide.",
+  "Potato___Late_blight": "🥔 Avoid wet foliage, use resistant varieties, and apply fungicide.",
+  "Potato___healthy": "🥔 Healthy! Maintain soil drainage and regular monitoring.",
+
+  "Grape___Black_rot": "🍇 Remove mummified berries, prune infected vines, and apply fungicide.",
+  "Grape___healthy": "🍇 Healthy! Maintain canopy airflow and balanced fertilization.",
+
+  "Peach___Bacterial_spot": "🍑 Use resistant varieties and copper sprays.",
+  "Peach___healthy": "🍑 Healthy! Monitor for leaf spots and maintain orchard hygiene.",
+
+  "Pepper,_bell___Bacterial_spot": "🌶️ Use disease-free seeds and apply copper-based sprays.",
+  "Pepper,_bell___healthy": "🌶️ Healthy! Maintain soil moisture and monitor for pests.",
+
+  "Healthy": "🌱 Plant looks healthy! Maintain soil health, proper irrigation, and regular monitoring."
+}

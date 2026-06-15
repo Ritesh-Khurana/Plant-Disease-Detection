@@ -5,12 +5,6 @@ Dataset/
 venv/
 env/
 
-# Ignore trained model files
-*.h5
-*.keras
-*.model
-trained_plant_disease_model.*
-trained_model.*
 
 # Ignore Python cache files
 __pycache__/
